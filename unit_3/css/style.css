@@ -1,0 +1,25 @@
+body {
+	background-image: url("http://static1.squarespace.com/static/52ddfde3e4b0c593abb98f50/t/52df7561e4b0bd4ef9c6ccd8/1425055220355/beer+sampler.2.jpg?format=2500w");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2 {
+	color: yellow;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+#slogan {
+	margin: -20px 0 0 0;
+	color: rgba(255,255,0,.85);
+	font-style: italic;
+}
