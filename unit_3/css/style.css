@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:700,400|Bitter);
-
 body {
 	background-image: url("http://static1.squarespace.com/static/52ddfde3e4b0c593abb98f50/t/52df7561e4b0bd4ef9c6ccd8/1425055220355/beer+sampler.2.jpg?format=2500w");
 	background-size: cover;
@@ -7,27 +5,18 @@ body {
 	color: white;
 }
 
-p {
-	font-family: 'Droid Sans', sans-serif;
-}
-
 h1 {
 	color: yellow;
-	font-family: 'Bitter', serif;
 }
 
 h2 {
 	color: yellow;
-	font-family: 'Bitter', serif;
 }
 
 ul {
 	list-style-type: none;
 }
 
-#area {
-
-}
 
 #slogan {
 	margin: -20px 0 0 0;

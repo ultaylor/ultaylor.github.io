@@ -7,27 +7,56 @@ body {
 	color: white;
 }
 
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 p {
 	font-family: 'Droid Sans', sans-serif;
+
 }
 
 h1 {
-	color: yellow;
+	color: rgba(245,145,30,1);
 	font-family: 'Bitter', serif;
 }
 
 h2 {
-	color: yellow;
+	color: rgba(245,145,30,1);
 	font-family: 'Bitter', serif;
 }
 
 ul {
 	list-style-type: none;
+	color: rgba(245,145,30,1);
 }
 
-#area {
-
-}
 
 #slogan {
 	margin: -20px 0 0 0;
